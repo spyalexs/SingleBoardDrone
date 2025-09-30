@@ -255,7 +255,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WYXPPYFG
 
 [Document13]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=SingleBoardDrone_.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
